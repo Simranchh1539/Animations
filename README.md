@@ -1,16 +1,18 @@
-# animationpracticetest
+# Animations
 
-A new Flutter project.
+In this Flutter Application we have different types of animations like animation builder,container,tween builder and hero animation
 
-## Getting Started
+## Pages
 
-This project is a starting point for a Flutter application.
+It has 4 pages:
+   1. First page we have animation container demo.
+   2. Second page we have animation builder demo.
+   3. Third Page we have tween builder demo.
+   4. Fourth Page we have demo of hero animations.
 
-A few resources to get you started if this is your first Flutter project:
+## Demo
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://user-images.githubusercontent.com/100132569/160393804-682655bb-cd6f-4faf-b79e-d5c551882619.mp4
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
